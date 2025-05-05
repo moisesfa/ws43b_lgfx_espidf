@@ -1,0 +1,21 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPath": "/Users/moisesfa/esp/v5.4.1/esp-idf",
+    "idf.pythonInstallPath": "/usr/bin/python3",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.port": "/dev/tty.usbmodem11301",
+    "idf.toolsPath": "/Users/moisesfa/.espressif",
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32s3"
+    },
+    "idf.flashType": "UART",
+    "files.associations": {
+        "waveshare_rgb_lcd_port.h": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "i2c.h": "c",
+        "gpio.h": "c"
+    }
+}

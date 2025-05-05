@@ -1,0 +1,2 @@
+source /Users/moisesfa/esp_projects/ws43b_lgfx_espidf/build/gdbinit/symbols
+source /Users/moisesfa/esp_projects/ws43b_lgfx_espidf/build/gdbinit/connect

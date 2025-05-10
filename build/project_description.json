@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "project_ws_01",
-    "project_version":    "1",
+    "project_version":    "9ae81ef-dirty",
     "project_path":       "/Users/moisesfa/esp_projects/ws43b_lgfx_espidf",
     "idf_path":           "/Users/moisesfa/esp/v5.4.1/esp-idf",
     "build_dir":          "/Users/moisesfa/esp_projects/ws43b_lgfx_espidf/build",

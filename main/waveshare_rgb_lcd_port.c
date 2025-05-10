@@ -6,6 +6,7 @@
 
 #include "waveshare_rgb_lcd_port.h"
 
+static const char *TAG = "example";
 
 /**
  * @brief I2C master initialization

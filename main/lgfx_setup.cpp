@@ -10,7 +10,7 @@ LGFX::LGFX(void) {
     cfg.panel_width   = TFT_HOR_RES;
     cfg.panel_height  = TFT_VER_RES;
     cfg.offset_x = 0;
-    cfg.offset_y = 0;
+    cfg.offset_y = 0;    
     _panel_instance.config(cfg);
   }
 

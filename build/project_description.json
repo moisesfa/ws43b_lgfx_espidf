@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "project_ws_01",
-    "project_version":    "55c4be5-dirty",
+    "project_version":    "906772b-dirty",
     "project_path":       "/Users/moisesfa/esp_projects/ws43b_lgfx_espidf",
     "idf_path":           "/Users/moisesfa/esp/v5.4.1/esp-idf",
     "build_dir":          "/Users/moisesfa/esp_projects/ws43b_lgfx_espidf/build",
@@ -1210,7 +1210,7 @@
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "/Users/moisesfa/esp_projects/ws43b_lgfx_espidf/build/esp-idf/main/libmain.a",
-            "sources": [ "/Users/moisesfa/esp_projects/ws43b_lgfx_espidf/main/main.cpp", "/Users/moisesfa/esp_projects/ws43b_lgfx_espidf/main/waveshare/waveshare_rgb_lcd_port.c", "/Users/moisesfa/esp_projects/ws43b_lgfx_espidf/main/lgfx_setup/lgfx_setup.cpp" ],
+            "sources": [ "/Users/moisesfa/esp_projects/ws43b_lgfx_espidf/main/main.cpp", "/Users/moisesfa/esp_projects/ws43b_lgfx_espidf/main/waveshare_setup/waveshare_rgb_lcd_port.c", "/Users/moisesfa/esp_projects/ws43b_lgfx_espidf/main/lgfx_setup/lgfx_setup.cpp" ],
             "include_dirs": [ "." ]
         },
         "mbedtls": {

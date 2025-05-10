@@ -13,7 +13,7 @@
 #include "esp_flash.h"
 #include "esp_system.h"
 
-#include "waveshare/waveshare_rgb_lcd_port.h"
+#include "waveshare_setup/waveshare_rgb_lcd_port.h"
 #include "lgfx_setup/lgfx_setup.hpp"
 
 extern "C" void app_main(void)
